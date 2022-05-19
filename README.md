@@ -2,7 +2,7 @@
 ----
 
 # Pre-Request:
-- install pyhton3
+- install pyhton3 and pip3
 - please mention the user id (which we need to disable) under app.py
 - please create .env file with crediantials of Auth0
 
