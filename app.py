@@ -3,7 +3,7 @@ from dotenv import dotenv_values
 config = dotenv_values(".env")
 
 
-user_id = "auth0|62742bd22d92360069f0a8cb"
+user_id = "auth0|***********************************"
 
 
 def access_token_generation():
